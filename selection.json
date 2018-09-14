@@ -19,7 +19,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 123,
+        "order": 152,
         "id": 58,
         "name": "infinispan",
         "prevSize": 32,
@@ -46,7 +46,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 33,
+        "order": 153,
         "id": 57,
         "name": "mediawiki",
         "prevSize": 32,
@@ -72,7 +72,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 34,
+        "order": 154,
         "id": 0,
         "name": "js",
         "prevSize": 32,
@@ -99,7 +99,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 35,
+        "order": 155,
         "id": 1,
         "name": "symfony",
         "prevSize": 32,
@@ -126,7 +126,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 36,
+        "order": 156,
         "id": 2,
         "name": "phalcon",
         "prevSize": 32,
@@ -153,7 +153,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 37,
+        "order": 157,
         "id": 3,
         "name": "angularjs",
         "prevSize": 32,
@@ -180,7 +180,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 38,
+        "order": 158,
         "id": 4,
         "name": "ansible",
         "prevSize": 32,
@@ -207,7 +207,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 39,
+        "order": 159,
         "id": 5,
         "name": "play",
         "prevSize": 32,
@@ -233,7 +233,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 40,
+        "order": 160,
         "id": 6,
         "name": "jboss",
         "prevSize": 32,
@@ -260,7 +260,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 125,
+        "order": 161,
         "id": 7,
         "prevSize": 32,
         "code": 61697,
@@ -288,7 +288,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 124,
+        "order": 162,
         "id": 8,
         "prevSize": 32,
         "code": 61698,
@@ -316,7 +316,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 43,
+        "order": 163,
         "id": 9,
         "prevSize": 32,
         "code": 61699,
@@ -345,7 +345,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 44,
+        "order": 164,
         "id": 10,
         "prevSize": 32,
         "code": 61700,
@@ -372,7 +372,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 45,
+        "order": 165,
         "id": 11,
         "prevSize": 32,
         "code": 61701,
@@ -400,7 +400,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 46,
+        "order": 166,
         "id": 12,
         "prevSize": 32,
         "code": 61702,
@@ -428,7 +428,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 47,
+        "order": 167,
         "id": 13,
         "prevSize": 32,
         "code": 61703,
@@ -457,7 +457,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 48,
+        "order": 168,
         "id": 14,
         "prevSize": 32,
         "code": 61704,
@@ -485,7 +485,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 49,
+        "order": 169,
         "id": 15,
         "prevSize": 32,
         "code": 61705,
@@ -513,7 +513,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 50,
+        "order": 170,
         "id": 16,
         "prevSize": 32,
         "code": 61712,
@@ -541,7 +541,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 126,
+        "order": 171,
         "id": 17,
         "prevSize": 32,
         "code": 61714,
@@ -569,7 +569,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 127,
+        "order": 172,
         "id": 18,
         "prevSize": 32,
         "code": 61715,
@@ -597,7 +597,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 53,
+        "order": 173,
         "id": 19,
         "prevSize": 32,
         "code": 61717,
@@ -625,7 +625,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 54,
+        "order": 174,
         "id": 20,
         "prevSize": 32,
         "code": 61718,
@@ -654,7 +654,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 55,
+        "order": 175,
         "id": 21,
         "prevSize": 32,
         "code": 61719,
@@ -683,7 +683,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 56,
+        "order": 176,
         "id": 22,
         "prevSize": 32,
         "code": 61720,
@@ -711,7 +711,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 57,
+        "order": 177,
         "id": 23,
         "prevSize": 32,
         "code": 61721,
@@ -740,7 +740,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 58,
+        "order": 178,
         "id": 24,
         "prevSize": 32,
         "code": 61728,
@@ -768,7 +768,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 59,
+        "order": 179,
         "id": 25,
         "prevSize": 32,
         "code": 61729,
@@ -796,7 +796,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 60,
+        "order": 180,
         "id": 26,
         "prevSize": 32,
         "code": 61730,
@@ -824,7 +824,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 128,
+        "order": 181,
         "id": 27,
         "prevSize": 32,
         "code": 61731,
@@ -853,7 +853,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 129,
+        "order": 182,
         "id": 28,
         "prevSize": 32,
         "code": 61732,
@@ -882,7 +882,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 63,
+        "order": 183,
         "id": 29,
         "prevSize": 32,
         "code": 61733,
@@ -910,7 +910,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 64,
+        "order": 184,
         "id": 30,
         "prevSize": 32,
         "code": 61734,
@@ -938,7 +938,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 65,
+        "order": 185,
         "id": 31,
         "prevSize": 32,
         "code": 61735,
@@ -967,7 +967,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 66,
+        "order": 186,
         "id": 32,
         "prevSize": 32,
         "code": 61736,
@@ -995,7 +995,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 67,
+        "order": 187,
         "id": 33,
         "prevSize": 32,
         "code": 61744,
@@ -1024,7 +1024,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 68,
+        "order": 188,
         "id": 34,
         "prevSize": 32,
         "code": 61745,
@@ -1052,7 +1052,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 69,
+        "order": 189,
         "id": 35,
         "prevSize": 32,
         "code": 61746,
@@ -1085,7 +1085,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 70,
+        "order": 190,
         "id": 36,
         "prevSize": 32,
         "code": 61747,
@@ -1113,7 +1113,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 131,
+        "order": 191,
         "id": 37,
         "prevSize": 32,
         "code": 61713,
@@ -1140,7 +1140,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 130,
+        "order": 192,
         "id": 38,
         "prevSize": 32,
         "code": 61748,
@@ -1167,7 +1167,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 73,
+        "order": 193,
         "id": 39,
         "prevSize": 32,
         "code": 61750,
@@ -1196,7 +1196,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 74,
+        "order": 194,
         "id": 40,
         "prevSize": 32,
         "code": 61749,
@@ -1229,7 +1229,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 75,
+        "order": 195,
         "id": 41,
         "prevSize": 32,
         "code": 61751,
@@ -1257,7 +1257,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 76,
+        "order": 196,
         "id": 42,
         "name": "rabbitmq",
         "prevSize": 32,
@@ -1284,7 +1284,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 77,
+        "order": 197,
         "id": 43,
         "name": "openstack",
         "prevSize": 32,
@@ -1311,7 +1311,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 78,
+        "order": 198,
         "id": 44,
         "name": "nginx",
         "prevSize": 32,
@@ -1338,7 +1338,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 79,
+        "order": 199,
         "id": 45,
         "name": "memcached",
         "prevSize": 32,
@@ -1365,7 +1365,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 80,
+        "order": 200,
         "id": 46,
         "name": "jruby",
         "prevSize": 32,
@@ -1392,7 +1392,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 132,
+        "order": 201,
         "id": 47,
         "name": "jetty",
         "prevSize": 32,
@@ -1419,7 +1419,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 133,
+        "order": 202,
         "id": 48,
         "name": "haproxy",
         "prevSize": 32,
@@ -1446,7 +1446,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 83,
+        "order": 203,
         "id": 49,
         "name": "hadoop",
         "prevSize": 32,
@@ -1473,7 +1473,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 84,
+        "order": 204,
         "id": 50,
         "name": "glassfish",
         "prevSize": 32,
@@ -1500,7 +1500,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 85,
+        "order": 205,
         "id": 51,
         "name": "gitlab",
         "prevSize": 32,
@@ -1527,7 +1527,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 86,
+        "order": 206,
         "id": 52,
         "name": "erlang",
         "prevSize": 32,
@@ -1554,7 +1554,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 87,
+        "order": 207,
         "id": 53,
         "name": "elastic",
         "prevSize": 32,
@@ -1581,7 +1581,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 88,
+        "order": 208,
         "id": 54,
         "name": "dotnet",
         "prevSize": 32,
@@ -1608,7 +1608,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 89,
+        "order": 209,
         "id": 55,
         "name": "cassandra",
         "prevSize": 32,
@@ -1636,7 +1636,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 91,
+        "order": 210,
         "id": 56,
         "name": "apache",
         "prevSize": 32,
@@ -1662,7 +1662,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 134,
+        "order": 211,
         "id": 68,
         "name": "3scale",
         "prevSize": 32,
@@ -1700,7 +1700,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 135,
+        "order": 212,
         "id": 61,
         "name": "amq",
         "prevSize": 32,
@@ -1728,7 +1728,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 111,
+        "order": 213,
         "id": 65,
         "name": "datagrid",
         "prevSize": 32,
@@ -1754,7 +1754,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 103,
+        "order": 214,
         "id": 64,
         "name": "datavirt",
         "prevSize": 32,
@@ -1784,7 +1784,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 101,
+        "order": 215,
         "id": 66,
         "name": "decisionserver",
         "prevSize": 32,
@@ -1810,7 +1810,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 104,
+        "order": 216,
         "id": 63,
         "name": "eap",
         "prevSize": 32,
@@ -1838,7 +1838,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 100,
+        "order": 217,
         "id": 67,
         "name": "processserver",
         "prevSize": 32,
@@ -1865,7 +1865,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 112,
+        "order": 218,
         "id": 62,
         "name": "rh-integration",
         "prevSize": 32,
@@ -1896,7 +1896,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 108,
+        "order": 219,
         "id": 59,
         "name": "rh-tomcat",
         "prevSize": 32,
@@ -1926,7 +1926,7 @@
       },
       "attrs": [],
       "properties": {
-        "order": 107,
+        "order": 220,
         "id": 60,
         "name": "sso",
         "prevSize": 32,
@@ -1970,7 +1970,7 @@
         {}
       ],
       "properties": {
-        "order": 116,
+        "order": 221,
         "id": 69,
         "name": "openshift",
         "prevSize": 32,
@@ -2006,7 +2006,7 @@
         {}
       ],
       "properties": {
-        "order": 120,
+        "order": 222,
         "id": 71,
         "name": "cordova",
         "prevSize": 32,
@@ -2035,7 +2035,7 @@
         {}
       ],
       "properties": {
-        "order": 138,
+        "order": 223,
         "id": 72,
         "name": "xamarin",
         "prevSize": 32,
@@ -2064,7 +2064,7 @@
         {}
       ],
       "properties": {
-        "order": 140,
+        "order": 224,
         "id": 73,
         "name": "kubevirt",
         "prevSize": 32,
@@ -2099,7 +2099,7 @@
         {}
       ],
       "properties": {
-        "order": 141,
+        "order": 225,
         "id": 74,
         "name": "mssql",
         "prevSize": 32,
@@ -2161,7 +2161,7 @@
         {}
       ],
       "properties": {
-        "order": 142,
+        "order": 226,
         "id": 75,
         "name": "debian",
         "prevSize": 32,
@@ -2193,7 +2193,7 @@
         {}
       ],
       "properties": {
-        "order": 143,
+        "order": 227,
         "id": 76,
         "name": "fedora",
         "prevSize": 32,
@@ -2255,7 +2255,7 @@
         {}
       ],
       "properties": {
-        "order": 145,
+        "order": 228,
         "id": 77,
         "name": "freebsd",
         "prevSize": 32,
@@ -2284,7 +2284,7 @@
         {}
       ],
       "properties": {
-        "order": 146,
+        "order": 229,
         "id": 78,
         "name": "other-linux",
         "prevSize": 32,
@@ -2313,7 +2313,7 @@
         {}
       ],
       "properties": {
-        "order": 147,
+        "order": 230,
         "id": 79,
         "name": "other-unknown",
         "prevSize": 32,
@@ -2345,7 +2345,7 @@
         {}
       ],
       "properties": {
-        "order": 148,
+        "order": 231,
         "id": 80,
         "name": "suse",
         "prevSize": 32,
@@ -2374,7 +2374,7 @@
         {}
       ],
       "properties": {
-        "order": 149,
+        "order": 232,
         "id": 81,
         "name": "ubuntu",
         "prevSize": 32,
@@ -2403,7 +2403,7 @@
         {}
       ],
       "properties": {
-        "order": 151,
+        "order": 233,
         "id": 82,
         "name": "windows",
         "prevSize": 32,
@@ -2412,6 +2412,96 @@
       "setIdx": 0,
       "setId": 1,
       "iconIdx": 81
+    },
+    {
+      "icon": {
+        "paths": [
+          "M532.889 994.546c-22.922 18.374-52.354 29.488-84.381 29.488-1.062 0-2.122-0.012-3.178-0.037l0.157 0.003c-0.964 0.024-2.1 0.038-3.239 0.038-32.213 0-61.831-11.11-85.231-29.708l0.281 0.216c-26.57-21.85-37.233-47.503-37.233-89.15v-204.957l39.68-5.069v197.965c0 39.637 2.972 50.824 18.398 67.736 16.038 17.961 39.331 27.619 66.862 27.619s50.868-9.658 66.819-27.619c15.514-16.912 18.354-28.1 18.354-67.736v-192.896l39.68-5.069v210.027c0 42.652-10.051 67.299-36.752 89.15z",
+          "M37.058 716.389c22.932-18.403 52.386-29.535 84.44-29.535 1.118 0 2.233 0.014 3.345 0.040l-0.165-0.003c0.98-0.025 2.133-0.040 3.29-0.040 32.189 0 61.779 11.129 85.131 29.75l-0.276-0.213c26.658 21.85 37.277 47.547 37.277 89.15v209.764h-39.68v-197.703c0-39.68-2.972-50.824-18.398-67.736-16.038-17.917-39.331-27.575-66.819-27.575s-50.912 9.658-66.862 27.575c-15.514 16.912-18.398 28.056-18.398 67.736v197.878h-39.68v-209.764c0-42.652 10.139-67.256 36.796-89.15z",
+          "M790.244 1021.116c-92.996 0-160.776-69.703-160.776-166.064s67.78-165.495 160.776-165.495 160.251 69.703 160.251 165.495-67.256 166.064-160.251 166.064zM790.244 724.474c-64.415 0-117.162 59.040-117.162 130.622s52.747 131.103 117.162 131.103 116.638-58.953 116.638-131.103-52.747-130.622-116.638-130.622z",
+          "M1230.181 963.693c-29.017 33.388-62.405 46.498-117.992 46.498h-106.15v-319.497h106.587c93.433 0 160.732 66.382 160.732 158.285-0.119 44.024-16.456 84.209-43.35 114.917l0.173-0.202zM1106.201 724.168h-60.438v252.635h60.438c42.215 0 65.945-8.216 86.309-29.061 23.579-26.293 38.323-60.934 39.327-98.997l0.004-0.204c0-71.101-53.271-124.373-125.465-124.373z",
+          "M1444.578 1010.191h-117.992v-319.497h103.615c30.897 0 48.071 5.375 63.891 19.884 15.407 14.811 25.023 35.548 25.172 58.532l0 0.028c0 34.393-20.802 61.968-54.757 73.592 42.652 8.259 66.906 38.282 66.906 82.333 0 50.78-34.961 85.129-86.746 85.129zM1464.068 735.749c-8.259-8.74-18.398-11.581-43.133-11.581h-54.801v103.527h51.829c22.724 0 32.907-3.409 43.701-14.028 9.653-10.361 15.578-24.306 15.578-39.634 0-0.539-0.007-1.076-0.022-1.611l0.002 0.079c0.031-0.674 0.049-1.465 0.049-2.259 0-13.272-4.993-25.378-13.203-34.542l0.043 0.049zM1420.979 864.011h-54.845v112.792h54.714c29.105 0 40.161-2.972 51.349-12.149 10.182-8.74 16.912-25.609 16.912-42.565 0-37.277-24.691-58.079-68.261-58.079z",
+          "M639.432 313.729l-0.262-0.393z",
+          "M783.776 28.012l-46.104 2.753-102.653 277.719-122.231-143.033-48.333-12.061-247.653-153.39 48.071 156.318 0.087 0.743-126.689-17.83 140.28 270.072 133.113 87.358-411.663 123.368 569.379-66.731-0.175-98.458 163.004-47.634 41.997-312.724 114.278 74.379-104.707-140.848z",
+          "M1556.408 707.955h14.159c0.229-0.014 0.498-0.022 0.768-0.022 3.435 0 6.561 1.321 8.899 3.483l-0.009-0.008c1.598 1.584 2.587 3.78 2.587 6.207 0 0.138-0.003 0.275-0.009 0.411l0.001-0.019c0.004 0.099 0.006 0.215 0.006 0.331 0 4.48-3.107 8.234-7.283 9.227l-0.064 0.013 8.522 11.974h-7.211l-7.691-10.969h-6.599v10.969h-6.074zM1570.305 723.469c3.977 0 6.293-1.923 6.293-4.938v0c0-3.19-2.316-4.938-6.293-4.938h-7.822v10.051z",
+          "M1568.47 756.026c-0.013 0-0.028 0-0.044 0-17.643 0-31.945-14.302-31.945-31.945s14.302-31.945 31.945-31.945c17.643 0 31.945 14.302 31.945 31.945 0 0.015-0 0.031-0 0.046l0-0.002c-0.025 17.609-14.293 31.877-31.899 31.902l-0.002 0zM1568.47 696.855c-0.013-0-0.028-0-0.044-0-15.060 0-27.269 12.209-27.269 27.269s12.209 27.269 27.269 27.269c15.060 0 27.269-12.209 27.269-27.269l0-0c-0.025-15.035-12.194-27.22-27.221-27.269l-0.005-0z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          },
+          {
+            "fill": "rgb(85, 85, 85)"
+          }
+        ],
+        "width": 1600,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 16,
+        "tags": [
+          "nuodb-logo_openshift-icons"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        },
+        {
+          "fill": "rgb(85, 85, 85)"
+        }
+      ],
+      "properties": {
+        "order": 234,
+        "id": 83,
+        "name": "nuodb",
+        "prevSize": 32,
+        "code": 59671
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 82
     }
   ],
   "height": 1024,
